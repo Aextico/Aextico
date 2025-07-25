@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Aextico
-- 👀 I’m interested in ...  Learning IT
-- 🌱 I’m currently learning ... C#
 - 📫 How to reach me ... Discord: eteco 
 
 <!---
